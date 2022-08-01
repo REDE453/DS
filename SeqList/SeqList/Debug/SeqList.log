@@ -1,0 +1,5 @@
+﻿  SeqList.c
+  test.c
+f:\ds\ds\seqlist\seqlist\test.c(32): warning C4020: “SeqListErase”: 实参太多
+  正在生成代码...
+  SeqList.vcxproj -> F:\DS\DS\SeqList\Debug\SeqList.exe
